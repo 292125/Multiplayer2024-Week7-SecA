@@ -20,7 +20,6 @@ public class ApplicationController : MonoBehaviour
     {
         if (isDedicatedServer)
         {
-
         }
         else
         {
